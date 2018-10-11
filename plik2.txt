@@ -1,2 +1,6 @@
 To jest test dla dwóch.
 Może coś wyjdzie?
+
+Wyszło jak trzeba.
+
+:-)
